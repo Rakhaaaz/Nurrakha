@@ -40,18 +40,6 @@
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-<p>
-	<a href="mailto:nurrakhmansyarifudin1@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
-</div>
-
----
-
 <div align="center">
 
 <!-- FOOTER -->
