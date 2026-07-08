@@ -7,7 +7,7 @@
 <!-- STATS CARDS -->
 <p>
 	<a href="https://github.com/Rakhaaaz">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakhaaaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=FFD700&text_color=C9D1D9&ring_color=FFD700" />
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rakhaaaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=FFD700&text_color=C9D1D9&ring_color=FFD700&cache_seconds=86400" />
 	</a>
 	<a href="https://github.com/Rakhaaaz">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakhaaaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=C9D1D9" />
