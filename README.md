@@ -1,22 +1,3 @@
-<div align="center">
-  
-<!-- ANIMATED TYPING -->
-<a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Hey+there!+I'm+Rakhaaa+%E2%9A%A1;Electrical+Engineering+%7C+IoT+Enthusiast" alt="Typing SVG" />
-</a>
-
-<!-- PROFILE VIEWS & FOLLOWERS -->
-<p>
-	<img src="https://komarev.com/ghpvc/?username=Rakhaaaz&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-	<a href="https://github.com/Rakhaaaz?tab=followers">
-		<img src="https://img.shields.io/github/followers/Rakhaaaz?label=Followers&style=for-the-badge&color=FFD700&logo=github&logoColor=white" alt="followers" />
-	</a>
-</p>
-
-</div>
-
----
-
 ---
 
 ##  GitHub Stats
