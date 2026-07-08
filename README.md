@@ -17,31 +17,6 @@
 
 ---
 
-<!-- ⚡ LIGHTNING DIVIDER -->
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header" width="100%"/>
-</p>
-
-## ⚡ About Me
-
-```yaml
-name: Nurrakha
-role: Electrical Engineering Student
-location: Indonesia 🇮🇩
-education: Electrical Engineering
-interests: ["IoT", "Embedded Systems", "Web Development", "Electrical Systems"]
-
-currently_working_on: IoT projects & web-based monitoring systems
-currently_learning: ["IoT", "Laravel", "Embedded C++", "Python"]
-fun_fact: "I combine hardware and software to build smart systems ⚡"
-
-motto: "Wire it. Code it. Power it. ⚡"
-```
-
-<p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=2&section=header" width="100%"/>
-</p>
-
 ---
 
 ##  GitHub Stats
